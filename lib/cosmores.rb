@@ -10,7 +10,7 @@ require 'virtus'
 require 'cosmores/hash_converter'
 require 'cosmores/client'
 require 'cosmores/booking'
-
+require 'cosmores/room'
 
 
 module Cosmores
